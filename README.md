@@ -21,5 +21,5 @@ Before you can run the backend or frontend, ensure that the following dependenci
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ocr-project.git
+git clone https://github.com/ssuorena/ocr-project.git
 ```
